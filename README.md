@@ -1,0 +1,1 @@
+Atividades da cadeira de Reinforcement Learning (2025/2) 
